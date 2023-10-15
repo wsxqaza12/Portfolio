@@ -24,6 +24,9 @@ This is a digital advertising case with exceptionally granular client data. We p
 This is a supply chain forecasting case where I utilized Autotuning in conjunction with Backtesting to train various ML models, including RF and DeepAR. By identifying the top-performing model out of 20 different combinations, we achieved a forecasting accuracy of 95%. This optimization led to significant cost savings in warehousing for the client, resulting in a remarkable 52% increase in net revenue.  
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Global%20Steel%20and%20Aerospace%20Company/01.PNG" width ="350" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Global%20Steel%20and%20Aerospace%20Company/02.PNG" width ="350" />
 
+### 4. Global Top Five Pharmaceutical Manufacturer (In Progress):
+Using XGBoost and lightGBM to build an MMM model, with the aim of resolving budget allocation issues in trade marketing activities for the client.
+
 ## Product:
 In the early stages, I independently utilized openCPU to create a backend API for rapid market trend testing.  
 During the mid-term, I focused on product workflow and business model development, closely collaborating with the product team.  
