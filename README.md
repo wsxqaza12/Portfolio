@@ -30,7 +30,7 @@ Using XGBoost and lightGBM to build an MMM model, with the aim of resolving budg
 ## Product:
 In the early stages, I independently utilized openCPU to create a backend API for rapid market trend testing.  
 During the mid-term, I focused on product workflow and business model development, closely collaborating with the product team.  
-In the later stages, I specialized in algorithm development, working with the data science team to create in-house algorithmic products.
+In the later stages, I specialized in algorithm development, working with the data science team to create in-house algorithmic products.  
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/service%20architecture_1.png" width ="350" /> 
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/service%20architecture_2.png" width ="350" /> 
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/Flowchart_2.png" width ="350" /> 
