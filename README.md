@@ -7,5 +7,5 @@
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/11.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/12.png" width ="150" />
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/13.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/14.png" width ="150" />
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/15.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/16.png" width ="150" />
-<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/17.png" width ="150" />
+
 
