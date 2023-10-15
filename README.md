@@ -10,7 +10,7 @@
 
 ## Project:
 ### 1. Top Three Advertising Companies:
-<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Global%20Steel%20and%20Aerospace%20Company/01.PNG" width ="350" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Global%20Steel%20and%20Aerospace%20Company/02.PNG" width ="350" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Top%20Three%20Advertising%20Companies/03.PNG" width ="350" />
+<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Top%20Three%20Advertising%20Companies/01.PNG" width ="350" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Top%20Three%20Advertising%20Companies/02.PNG" width ="350" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Top%20Three%20Advertising%20Companies/03.PNG" width ="350" />
 
 ### 2. Global Steel and Aerospace Company:
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Global%20Steel%20and%20Aerospace%20Company/01.PNG" width ="350" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Global%20Steel%20and%20Aerospace%20Company/02.PNG" width ="350" />
