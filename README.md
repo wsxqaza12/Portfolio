@@ -27,12 +27,15 @@ This is a supply chain forecasting case where I utilized Autotuning in conjuncti
 ### 4. Global Top Five Pharmaceutical Manufacturer (In Progress):
 Using XGBoost and lightGBM to build an MMM model, with the aim of resolving budget allocation issues in trade marketing activities for the client.
 
+### 5. other:
+<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_01.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_02.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_03.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_04.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_05.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_06.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_07.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_08.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_09.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_10.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_11.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/explanations_12.png" width ="150" />  
+
 ## Product:
 In the early stages, I independently utilized openCPU to create a backend API for rapid market trend testing.  
 During the mid-term, I focused on product workflow and business model development, closely collaborating with the product team.  
 In the later stages, I specialized in algorithm development, working with the data science team to create in-house algorithmic products.  
-<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/service%20architecture_1.png" width ="350" /> 
-<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/service%20architecture_2.png" width ="350" /> 
-<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/Flowchart_2.png" width ="350" /> 
-<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/package_flow.png" width ="350" /> 
-<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/other/Flowchart_1.png" width ="350" />
+<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Product/service%20architecture_1.png" width ="350" /> 
+<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Product/service%20architecture_2.png" width ="350" /> 
+<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Product/Flowchart_2.png" width ="350" /> 
+<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Product/package_flow.png" width ="350" /> 
+<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Product/Flowchart_1.png" width ="350" />
