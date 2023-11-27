@@ -1,4 +1,5 @@
-## Data Visualization and Design:
+## Visualization and Design:
+### 1. Data Visualization:  
 [Full pdf click here](https://drive.google.com/file/d/17D9jWmNCJNPTMbp1ibWR9Ll-SB8H4NL0/view?usp=sharing)👈  
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/01.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/02.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/03.png" width ="150" /> 
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/04.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/05.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/06.png" width ="150" />
@@ -6,7 +7,10 @@
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/09.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/10.png" width ="150" />
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/11.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/12.png" width ="150" />
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/13.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/14.png" width ="150" />
-<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/15.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/16.png" width ="150" />
+<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/15.png" width ="150" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Data%20Visualization%20and%20Design/16.png" width ="150" />  
+### 2. Dashboard Design:  
+Collaborating with the frontend engineer during the MVP phase to design frontend pages and dashboard display. The image provided has undergone past de-identification processing.   
+<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Dashboard/Dashboard_01.png" width ="300" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Dashboard/Dashboard_02.png" width ="300" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Dashboard/Dashboard_03.PNG" width ="300" />
 
 ## Project:
 ### 1. Global Top Three Pharmaceutical Company: 
