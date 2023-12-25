@@ -12,6 +12,9 @@
 Collaborating with the frontend engineer during the MVP phase to design frontend pages and dashboard display. The image provided has undergone past de-identification processing.   
 <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Dashboard/Dashboard_01.png" width ="300" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Dashboard/Dashboard_02.png" width ="300" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/Dashboard/Dashboard_03.PNG" width ="300" />
 
+### 3. MRT side project:
+<img src = "https://github.com/wsxqaza12/Portfolio/blob/master/MRT%20project/MRT_1.png" width ="350" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/MRT%20project/MRT_2.png" width ="350" /> <img src = "https://github.com/wsxqaza12/Portfolio/blob/master/MRT%20project/MRT_3.png" width ="350" />
+
 ## Project:
 ### 1. Global Top Three Pharmaceutical Company: 
 **Objective**: Assist clients in estimating the contribution of each marketing strategy, encompassing the impact at various hierarchical levels.  
